@@ -1,0 +1,9 @@
+- int value = GetRandomValue(0, 100);
+- itemID.ToString()
+-   System.Threading.Thread.Sleep(100);
+
+- delegate tham chieu dc toi phuong thuc cung mau ;
+- Multicast Delegates chi tham chieu toi kiểu trả về là void
+
+- catch
+- action

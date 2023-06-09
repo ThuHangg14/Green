@@ -1,0 +1,16 @@
+D:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.exe.config
+D:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.exe
+D:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.pdb
+D:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.AssemblyReference.cache
+D:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.SuggestedBindingRedirects.cache
+D:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.CoreCompileInputs.cache
+D:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.exe
+D:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.pdb
+H:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.exe.config
+H:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.exe
+H:\ex\cs_lap02\cs_lap02\bin\Debug\cs_lap02.pdb
+H:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.AssemblyReference.cache
+H:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.SuggestedBindingRedirects.cache
+H:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.csproj.CoreCompileInputs.cache
+H:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.exe
+H:\ex\cs_lap02\cs_lap02\obj\Debug\cs_lap02.pdb

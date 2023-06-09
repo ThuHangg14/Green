@@ -1,0 +1,16 @@
+D:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.exe.config
+D:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.exe
+D:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.pdb
+D:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.AssemblyReference.cache
+D:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.CoreCompileInputs.cache
+D:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.exe
+D:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.pdb
+H:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.exe.config
+H:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.exe
+H:\exercises C#\Inheritance\Inheritance\bin\Release\Inheritance.pdb
+H:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.AssemblyReference.cache
+H:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.SuggestedBindingRedirects.cache
+H:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.csproj.CoreCompileInputs.cache
+H:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.exe
+H:\exercises C#\Inheritance\Inheritance\obj\Release\Inheritance.pdb
