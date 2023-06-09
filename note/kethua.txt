@@ -1,0 +1,2 @@
+- Contructor : public ChiPhiXayDung(double l, double w) : base(l, w){ }
+- call fc in main

@@ -1,0 +1,8 @@
+H:\UserManager\UserManager\bin\Debug\UserManager.exe.config
+H:\UserManager\UserManager\bin\Debug\UserManager.exe
+H:\UserManager\UserManager\bin\Debug\UserManager.pdb
+H:\UserManager\UserManager\obj\Debug\UserManager.csproj.AssemblyReference.cache
+H:\UserManager\UserManager\obj\Debug\UserManager.csproj.SuggestedBindingRedirects.cache
+H:\UserManager\UserManager\obj\Debug\UserManager.csproj.CoreCompileInputs.cache
+H:\UserManager\UserManager\obj\Debug\UserManager.exe
+H:\UserManager\UserManager\obj\Debug\UserManager.pdb

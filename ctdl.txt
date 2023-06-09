@@ -1,0 +1,4 @@
+- Fibonacci() : bd vs 0 1 => trc + sau => tao f0 f1 => t = f1 ; f1 += f0 ; f0 = t
+- snt -> for den so can kiem tra -> khi chia het cho so kp no -> return false
+- bublesort (for i , j = 0) length -2 : so sanh cap doi 
+- selectsort (for i = 0 , j = i + 1) : tim min mang 0->n -> tim min mang 1->n ....
